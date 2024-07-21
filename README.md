@@ -88,4 +88,4 @@ test_data = load_UCIdata(cat_key='regression', name_key='dataset1', splits='test
 trainval_data = load_UCIdata(cat_key='regression', name_key='dataset1', splits='trainval')
 ```
 
-Feel free to explore and use these datasets for your regression tasks. Happy analyzing!
+If you find problem/issue please contact lingping_kong@yahoo.com; Happy analyzing!
